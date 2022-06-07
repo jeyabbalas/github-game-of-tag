@@ -1,5 +1,5 @@
 # List of people already tagged
-theItList = c("Srijon")
+theItList = c("Srijon", "Parichoy")
 
 #############
 ### SETUP ###
